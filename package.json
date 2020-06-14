@@ -29,6 +29,7 @@
     "tsc:watch": "tsc --watch"
   },
   "dependencies": {
+    "@network-utils/arp-lookup": "^1.3.4",
     "source-map-support": "^0.5.16"
   },
   "devDependencies": {
